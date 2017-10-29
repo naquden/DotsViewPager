@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dots_view_pager_dot_size">12dp</dimen>
+    <dimen name="dots_view_pager_dot_margin_end">8dp</dimen>
+
+</resources>

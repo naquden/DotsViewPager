@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Custom view color -->
+    <color name="dots_view_pager_dot_selected_color">@android:color/black</color>
+    <color name="dots_view_pager_dot_unselected_color">#a1a1a1</color>
+
+</resources>
